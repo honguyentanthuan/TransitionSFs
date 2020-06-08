@@ -17,7 +17,6 @@
 clc
 clear all
 close all
-addpath tools
 
 % --- rectangle master element 
 nodes = [-1 -1;1 -1;1 1;-1 1];
